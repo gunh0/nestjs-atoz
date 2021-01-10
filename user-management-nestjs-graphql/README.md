@@ -103,7 +103,7 @@ devgun-nestjs-graphql> yarn start:dev
 
 ## SCHEMA ver.1
 
-```json
+```
 directive @specifiedBy(url: String!) on SCALAR
 input CreateUserInput {
   email: String!
