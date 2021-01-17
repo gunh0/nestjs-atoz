@@ -1,16 +1,23 @@
+### Why NestJS?
+
+- Nest provides a level of abstraction above these common Node.js frameworks (Express/Fastify) but also exposes their APIs directly to the developer.
+- This allows developers the freedom to use the myriad of third-party modules that are available for the underlying platform.
+
+<br>
+
+```
+# make new project
+nest new project-name
+```
+
+<br/>
+
 ### Why GraphQL?
 
 - No more Over- and Underfetching
 - Rapid Product Iterations on the Frontend
 - Insightful Analytics on the Backend
 - Benefits of a Schema & Type System
-
-<br/>
-
-### Why NestJS?
-
-- Nest provides a level of abstraction above these common Node.js frameworks (Express/Fastify) but also exposes their APIs directly to the developer.
-- This allows developers the freedom to use the myriad of third-party modules that are available for the underlying platform.
 
 <br/>
 
